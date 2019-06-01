@@ -1,0 +1,25 @@
+Host 104
+    hostname 159.226.72.104
+    user dkk
+    port 22
+Host 105
+    hostname 159.226.72.105
+    user dkk
+    port 22
+Host 106
+    hostname 159.226.72.106
+    user dkk
+    port 22
+
+Host software104
+    hostname 159.226.72.104
+    user software
+    port 22
+Host software105
+    hostname 159.226.72.105
+    user software
+    port 22
+Host software106
+    hostname 159.226.72.106
+    user software
+    port 22
