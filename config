@@ -23,3 +23,13 @@ Host software106
     hostname 159.226.72.106
     user software
     port 22
+
+Host dampe
+    hostname 192.168.1.158
+    user duankk
+    port 22
+
+Host lhaaso
+    hostname 202.122.33.193
+    user xyhuang
+    port 22
